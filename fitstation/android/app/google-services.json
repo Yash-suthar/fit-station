@@ -1,0 +1,62 @@
+{
+  "project_info": {
+    "project_number": "333379338426",
+    "project_id": "ics-fit-station",
+    "storage_bucket": "ics-fit-station.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:333379338426:android:35a353f32f36c9ef4bc283",
+        "android_client_info": {
+          "package_name": "com.fitstation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "333379338426-fa7i1ehkdh4ojakvn7fd755ioli28kpp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fitstation",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "333379338426-vopcek7viogrknrbh6lncl28roomm6cs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fitstation",
+            "certificate_hash": "2c910fb48c8a7d00d5b2c07227b76ff66b0fa222"
+          }
+        },
+        {
+          "client_id": "333379338426-gacporssuffsj9lo529vvfmp6ej13g0r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkARNYF_JrBdVp1K-ntAfNuYR7mIQFzVM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "333379338426-gacporssuffsj9lo529vvfmp6ej13g0r.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "333379338426-11jtemo3tnv108gt8vjr1nd76iq91q2d.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.fitstation"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
